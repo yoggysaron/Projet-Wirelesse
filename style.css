@@ -1,0 +1,73 @@
+			/* HEADER */
+
+header img {
+
+	width: 10%; 
+}
+
+.container-fluid {
+
+	background-color: grey; 
+}
+
+
+			/* NAVIGUATION */
+
+#nav {
+
+	margin: inherit;
+}
+
+a {
+
+	list-style: none;
+}
+
+header div li ul li  {
+
+	display: none;
+}
+
+header div li:hover ul li    {
+
+	display: block;
+}
+
+			/* FIN NAVIGUATION */
+
+			/* BODY */
+
+
+#block-central {
+
+	width: 500px;
+}
+
+			/* FIN BODY *
+
+			/* FOOTER */
+
+
+#carte img {
+
+	width: 90%; 
+}
+
+#ld, #tourise {
+
+	padding-top: 20px; 
+
+}
+
+footer .container-fluid {
+
+	background-color: #272727; 
+	color: #939393;
+}
+
+#block-g {
+
+	background-color: black; 
+	color: #939393;
+}
+
